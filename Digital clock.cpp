@@ -17,6 +17,7 @@ int main()
 				if(h<12)
 				{
 					printf(" AM");
+					printf("PM");
 				}
 				else
 				{
